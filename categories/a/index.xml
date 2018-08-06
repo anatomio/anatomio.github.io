@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A on Hugo Image Archive Theme</title>
-    <link>http://anatomio.github.io/categories/a/</link>
+    <link>https://anatomio.github.io/categories/a/</link>
     <description>Recent content in A on Hugo Image Archive Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Mar 2015 12:57:32 +0200</lastBuildDate>
     
-	<atom:link href="http://anatomio.github.io/categories/a/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anatomio.github.io/categories/a/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ab - Ad</title>
-      <link>http://anatomio.github.io/dir-a/ab-ad/</link>
+      <link>https://anatomio.github.io/dir-a/ab-ad/</link>
       <pubDate>Fri, 27 Mar 2015 12:57:32 +0200</pubDate>
       
-      <guid>http://anatomio.github.io/dir-a/ab-ad/</guid>
+      <guid>https://anatomio.github.io/dir-a/ab-ad/</guid>
       <description>photo title description
   photo title description</description>
     </item>
     
     <item>
       <title>An - Az</title>
-      <link>http://anatomio.github.io/dir-a/dir-an-az/</link>
+      <link>https://anatomio.github.io/dir-a/dir-an-az/</link>
       <pubDate>Fri, 27 Mar 2015 12:57:32 +0200</pubDate>
       
-      <guid>http://anatomio.github.io/dir-a/dir-an-az/</guid>
+      <guid>https://anatomio.github.io/dir-a/dir-an-az/</guid>
       <description>photo title description
   photo title description</description>
     </item>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos by Davids on Hugo Image Archive Theme</title>
-    <link>http://anatomio.github.io/dir-rest/dir-david/</link>
+    <link>https://anatomio.github.io/dir-rest/dir-david/</link>
     <description>Recent content in Photos by Davids on Hugo Image Archive Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://anatomio.github.io/dir-rest/dir-david/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anatomio.github.io/dir-rest/dir-david/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photo by David Kovalenko</title>
-      <link>http://anatomio.github.io/dir-rest/dir-david/post-david-kovalenko/</link>
+      <link>https://anatomio.github.io/dir-rest/dir-david/post-david-kovalenko/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://anatomio.github.io/dir-rest/dir-david/post-david-kovalenko/</guid>
+      <guid>https://anatomio.github.io/dir-rest/dir-david/post-david-kovalenko/</guid>
       <description>test content  photo title description</description>
     </item>
     
     <item>
       <title>Photo by David Travis</title>
-      <link>http://anatomio.github.io/dir-rest/dir-david/post-david-travis/</link>
+      <link>https://anatomio.github.io/dir-rest/dir-david/post-david-travis/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://anatomio.github.io/dir-rest/dir-david/post-david-travis/</guid>
+      <guid>https://anatomio.github.io/dir-rest/dir-david/post-david-travis/</guid>
       <description>  photo title description
  </description>
     </item>
