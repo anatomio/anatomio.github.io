@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hugo Image Archive Theme</title>
+    <link>http://anatomio.github.io/categories/</link>
+    <description>Recent content in Categories on Hugo Image Archive Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2015 12:57:32 +0200</lastBuildDate>
+    
+	<atom:link href="http://anatomio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A</title>
+      <link>http://anatomio.github.io/categories/a/</link>
+      <pubDate>Fri, 27 Mar 2015 12:57:32 +0200</pubDate>
+      
+      <guid>http://anatomio.github.io/categories/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David</title>
+      <link>http://anatomio.github.io/categories/david/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/categories/david/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric</title>
+      <link>http://anatomio.github.io/categories/eric/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/categories/eric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>http://anatomio.github.io/categories/photos/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/categories/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S</title>
+      <link>http://anatomio.github.io/categories/s/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/categories/s/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

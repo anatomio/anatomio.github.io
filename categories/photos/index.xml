@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Hugo Image Archive Theme</title>
+    <link>http://anatomio.github.io/categories/photos/</link>
+    <description>Recent content in Photos on Hugo Image Archive Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://anatomio.github.io/categories/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photo by Becca Lavin</title>
+      <link>http://anatomio.github.io/dir-rest/post-becca-lavin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/dir-rest/post-becca-lavin/</guid>
+      <description>  photo title description
+ </description>
+    </item>
+    
+    <item>
+      <title>Photo by Cassi Josh</title>
+      <link>http://anatomio.github.io/dir-rest/post-cassi-josh/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/dir-rest/post-cassi-josh/</guid>
+      <description>  photo title description
+ </description>
+    </item>
+    
+    <item>
+      <title>Photo by Chuttersnap</title>
+      <link>http://anatomio.github.io/dir-rest/post-chuttersnap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/dir-rest/post-chuttersnap/</guid>
+      <description>  photo title description
+ </description>
+    </item>
+    
+    <item>
+      <title>Photo by Clem Onojeghuo</title>
+      <link>http://anatomio.github.io/dir-rest/post-clem-onojeghuo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/dir-rest/post-clem-onojeghuo/</guid>
+      <description>  photo title description
+ </description>
+    </item>
+    
+    <item>
+      <title>Photo by Fabian Bazanegue</title>
+      <link>http://anatomio.github.io/dir-rest/post-fabian-bazanegue/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/dir-rest/post-fabian-bazanegue/</guid>
+      <description>  photo title description
+ </description>
+    </item>
+    
+    <item>
+      <title>Photo by Fernando Reyes</title>
+      <link>http://anatomio.github.io/dir-rest/post-fernando-reyes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/dir-rest/post-fernando-reyes/</guid>
+      <description>  photo title description
+ </description>
+    </item>
+    
+    <item>
+      <title>Photo by Filbert Mangundap</title>
+      <link>http://anatomio.github.io/dir-rest/post-filbert-mangundap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/dir-rest/post-filbert-mangundap/</guid>
+      <description>  photo title description
+ </description>
+    </item>
+    
+    <item>
+      <title>Photos from Unsplash</title>
+      <link>http://anatomio.github.io/dir-rest/post-rest/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://anatomio.github.io/dir-rest/post-rest/</guid>
+      <description>photo title description
+  photo title description
+  photo title description
+  photo title description
+  photo title description
+  photo title description
+  photo title description</description>
+    </item>
+    
+  </channel>
+</rss>
